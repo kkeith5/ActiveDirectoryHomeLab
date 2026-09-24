@@ -27,32 +27,34 @@ This project builds a small business style Windows Active Directory environment 
 <h2>Lab walk-through:</h2>
 
 <p align="center">
-Virtual machines set up in VirtualBox: <br/>
+
+<h3>1. Virtual machines set up in VirtualBox:</h3>
 <img src="ad-screenshots/01-virtualbox.png" height="80%" width="80%" alt="VirtualBox VMs"/>
-<br />
-<br />
-Server promoted to Domain Controller: <br/>
+<br /><br />
+
+<h3>2. Server promoted to Domain Controller:</h3>
 <img src="ad-screenshots/02-domain-controller.png" height="80%" width="80%" alt="Domain Controller"/>
 <img src="ad-screenshots/02-server-manager-domain-controller.png" height="80%" width="80%" alt="Domain Controller"/>
-<br />
-<br />
-OU structure, users and groups created: <br/>
+<br /><br />
+
+<h3>3. OU structure, users and groups created:</h3>
 <img src="ad-screenshots/03-ous-users-groups.png" height="80%" width="80%" alt="OUs users and groups"/>
- <img src="ad-screenshots/03-users-list.png" height="80%" width="80%" alt="OUs users and groups"/> 
-<br />
-<br />
-Password policy configured in Group Policy: <br/>
+<img src="ad-screenshots/03-users-list.png" height="80%" width="80%" alt="OUs users and groups"/>
+<br /><br />
+
+<h3>4. Password policy configured in Group Policy:</h3>
 <img src="ad-screenshots/04-password-policy.png" height="80%" width="80%" alt="Group Policy"/>
-<br />
-  <br />
-Group policy Status: <br/>
-<img src="ad-screenshots/04-password-policy.png" height="80%" width="80%" alt="Group Policy"/>
-<br />
-<br />
-Client joined to the domain: <br/>
+<br /><br />
+
+<h3>4.1 Group Policy status:</h3>
+<img src="ad-screenshots/04-group-policy.png" height="80%" width="80%" alt="Group Policy status"/>
+<br /><br />
+
+<h3>5.Client joined to the domain:</h3>
 <img src="ad-screenshots/05-domain-join.png" height="80%" width="80%" alt="Domain join"/>
-<br />
-<br />
-Logged in as a domain user and policy verified: <br/>
+<br /><br />
+
+<h3>6. Logged in as a domain user and policy verified:</h3>
 <img src="ad-screenshots/06-verify.png" height="80%" width="80%" alt="Verification"/>
+
 </p>
