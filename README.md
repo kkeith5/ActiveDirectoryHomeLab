@@ -33,14 +33,20 @@ Virtual machines set up in VirtualBox: <br/>
 <br />
 Server promoted to Domain Controller: <br/>
 <img src="screenshots/02-domain-controller.png" height="80%" width="80%" alt="Domain Controller"/>
+<img src="screenshots/02-server-manager-domain-controller.png" height="80%" width="80%" alt="Domain Controller"/>
 <br />
 <br />
 OU structure, users and groups created: <br/>
 <img src="screenshots/03-ous-users-groups.png" height="80%" width="80%" alt="OUs users and groups"/>
+ <img src="screenshots/03-users-list.png" height="80%" width="80%" alt="OUs users and groups"/> 
 <br />
 <br />
 Password policy configured in Group Policy: <br/>
-<img src="screenshots/04-group-policy.png" height="80%" width="80%" alt="Group Policy"/>
+<img src="screenshots/04-password-policy.png" height="80%" width="80%" alt="Group Policy"/>
+<br />
+  <br />
+Group policy Status: <br/>
+<img src="screenshots/04-password-policy.png" height="80%" width="80%" alt="Group Policy"/>
 <br />
 <br />
 Client joined to the domain: <br/>
